@@ -1,0 +1,14 @@
+body{
+    background-color: beige;
+}
+
+.outer{
+    width:50%;
+    margin:auto;
+    text-align: center;
+    border: 2px solid blue;
+}
+
+.custom:hover{
+    cursor: pointer !important;
+}
